@@ -7,9 +7,9 @@
 
 ## O projeto consiste nas seguintes etapas
 
-- [x] Ecossistemas Java
-- [x] Orientação a Objetos
-- [x] Manipulação de listas
-- [x] Consumo de API's
-- [x] Tratamento de Exceções
+> - [x] Ecossistemas Java
+> - [x] Orientação a Objetos
+> - [x] Manipulação de listas
+> - [x] Consumo de API's
+> - [x] Tratamento de Exceções
 
